@@ -3,7 +3,7 @@ name: Display on Push
 on:
   push:
 
-Jobs:
+jobs:
   show message:
     runs-on: ubuntu-latest
 
